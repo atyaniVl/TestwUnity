@@ -15,4 +15,8 @@ public class testScript : MonoBehaviour
     {
         
     }
+    public void playerMovement()
+    {
+        //this is a movement method
+    }
 }
